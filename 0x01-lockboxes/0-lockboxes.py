@@ -3,7 +3,7 @@
 '''
 
 
-def canunlockall(boxes):
+def canUnlockAll(boxes):
     key = [0]
     for k in key:
         for i in boxes[k]:
@@ -13,3 +13,4 @@ def canunlockall(boxes):
         return True
     else:
         return False
+
