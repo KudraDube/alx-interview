@@ -1,4 +1,4 @@
-0x06. Star Wars API
+Kudra 0x06. Star Wars API
 
 Learning Objectives
 Algorithm
